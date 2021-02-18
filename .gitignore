@@ -5,6 +5,8 @@
 *.so
 *.dylib
 
+firebase-adminsdk.json
+
 # Test binary, built with `go test -c`
 *.test
 
